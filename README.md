@@ -21,6 +21,7 @@ These are the accuracy scores of the model:
 | Train | 94.97 |
 | Validation | 95.63 |
 | Test | 95.52 |
+
 These are some sampled results from the test set.
 ![](https://github.com/ghaith7/building_detection_sattelite_images/blob/main/assets/results_sample.PNG)
 
